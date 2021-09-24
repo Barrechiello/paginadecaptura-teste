@@ -103,3 +103,10 @@ footer {
 	text-align: center;
 	margin: auto;
 }
+
+@media screen and (max-width: 800px) {
+	.formcontainer {
+		float: none;
+		margin: auto;
+	}
+}
